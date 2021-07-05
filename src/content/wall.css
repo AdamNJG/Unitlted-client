@@ -1,0 +1,112 @@
+div.postContainer {
+    background-color: #fefefe;
+    min-width: 90%;
+    margin-top: 15px;    
+    border-radius: 15px;
+    padding: 10px;
+    opacity: 1.0; 
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+div.return {
+    width: 100%;
+}
+
+div.username {
+    display: flex;
+    font: bold;
+    min-width: max-content;  
+}
+
+textarea.postContent {
+    background-color: rgba(201, 201, 201, 0.3);
+    width: 100%;
+    padding: 5px;
+    border-radius:5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:rgba(201, 201, 201, 0.8);
+    margin: 5px;
+    resize:none;
+    white-space: nowrap;
+    overflow:hidden;
+}
+
+
+textarea.postContent {
+    background-color: rgba(201, 201, 201, 0.3);
+    width: 100%;
+    padding: 5px;
+    border-radius:5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:rgba(201, 201, 201, 0.8);
+    margin: 5px;
+    resize:none;
+    white-space: nowrap;
+    overflow:hidden;
+}
+
+div.dateCreated {
+    text-align: right;
+    padding: 2px;
+}
+
+div.deleteUpdate {
+    width: 100%;
+    text-align: right;
+    align-items: right;
+}
+
+button.deleteButton {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+textarea.updateText {
+    width: 100%;
+    border-style: solid;
+    border-color: darkgrey;
+    height: 60px;
+}
+
+td.postStats {
+    padding-left: 10px;
+}
+
+table.starTable {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 45px;
+}
+
+td.starCell {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+table.commentTable {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 45px;
+}
+
+td.commentCell {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+div.commentContainer {
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #fefefe;
+    min-width: 90%;
+    margin-top: 15px;    
+    border-radius: 15px;
+    padding: 10px;
+    opacity: 1.0; 
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}

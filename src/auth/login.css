@@ -1,0 +1,9 @@
+
+button.errorButton {
+    border: none;
+    background-color: transparent;
+    width: 100%;
+}
+
+button.errorButton:focus {outline: none;
+}

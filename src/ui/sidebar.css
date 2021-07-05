@@ -1,0 +1,19 @@
+
+
+.container {
+    white-space: nowrap;
+    justify-items: initial ;
+    
+}
+
+.container > div {
+  width: 300px;
+  display: inline-block;
+}
+
+.userDetails {
+  margin: 5px;
+  padding: 5px;
+  
+}
+

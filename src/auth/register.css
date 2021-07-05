@@ -1,0 +1,22 @@
+div.floating {
+    position: absolute;
+    background-color: #fafafa;
+    width: 100%;
+    z-index: 1;
+    padding-left: 20%;
+    padding-right:20%;
+    
+}
+
+button.back {
+    align-self: right;
+    background-color: blue;
+}
+
+
+div.formContainer {
+    z-index: 2;
+    margin: auto;
+
+}
+
